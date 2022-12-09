@@ -1,4 +1,4 @@
-# COVID-19-Tracking-Androigit
+# Aplikasi Tracking Kasus Covid-19 Menggunakan Java
 Ujian Akhir Semester - Praktikum Pemograman Sistem Bergerak
 Kelompok 7
 1. Gusti Nanda - 20343012
